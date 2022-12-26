@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18994de1.css",
+    "main.js": "/static/js/main.82856631.js",
+    "static/js/787.29183c90.chunk.js": "/static/js/787.29183c90.chunk.js",
+    "static/media/AboutPark.jpg": "/static/media/AboutPark.f5fbc05100e058d9bb73.jpg",
+    "static/media/DSC_5019_DxO.jpg": "/static/media/DSC_5019_DxO.b9421545b3339b76fe56.jpg",
+    "static/media/DSC_4939_DxO.jpg": "/static/media/DSC_4939_DxO.5b671ead9b43e5109b6d.jpg",
+    "static/media/DSC_4975_DxO.jpg": "/static/media/DSC_4975_DxO.f6773582e8530cc35805.jpg",
+    "static/media/fr-im11.png": "/static/media/fr-im11.237c484b309968e7a3c9.png",
+    "static/media/childrens.png": "/static/media/childrens.73826550bd63cebb809d.png",
+    "static/media/icon-sky-park.jpg": "/static/media/icon-sky-park.29f92f646d43bd446f2e.jpg",
+    "static/media/tehno-park.jpg": "/static/media/tehno-park.f9cfc3d3dae648452bd7.jpg",
+    "static/media/issyk-kull.jpg": "/static/media/issyk-kull.87e85fe5cab027c3ce39.jpg",
+    "static/media/tommi.jpg": "/static/media/tommi.87e85fe5cab027c3ce39.jpg",
+    "static/media/logo.png": "/static/media/logo.f7f69b514751179e57e0.png",
+    "static/media/цум2.jpg": "/static/media/цум2.ce49c33f224f969ace3e.jpg",
+    "static/media/main-baner.jpg": "/static/media/main-baner.40799e608431872a6570.jpg",
+    "static/media/teens.jpeg": "/static/media/teens.32d010e1689d4855c82a.jpeg",
+    "static/media/dream-park.jpg": "/static/media/dream-park.a252b10f52afc52934c5.jpg",
+    "static/media/first.svg": "/static/media/first.1a1603c716c1bbb79068053538fcdc5c.svg",
+    "static/media/fourth.svg": "/static/media/fourth.1e86a1f2e8ef431beae0d00b24358d40.svg",
+    "static/media/third.svg": "/static/media/third.f1ef6560dcc9596598f50c68faeb3a04.svg",
+    "static/media/account__adress.svg": "/static/media/account__adress.b9f6fc9130dcac814cf19cd440ca433b.svg",
+    "static/media/second.svg": "/static/media/second.9e541a9d93101ea045cc9ebf855df7af.svg",
+    "static/media/account__info.svg": "/static/media/account__info.01548b5000e8ecc49d2db6828bc2559d.svg",
+    "static/media/bg1.svg": "/static/media/bg1.50dc9260f7165fd7b76e.svg",
+    "index.html": "/index.html",
+    "static/media/account__wish.svg": "/static/media/account__wish.8dcac636b04a8fe467d32873a10ec20f.svg",
+    "static/media/account__history.svg": "/static/media/account__history.541d3655781cdffb2abda7dab1d24e51.svg",
+    "static/media/account__pass.svg": "/static/media/account__pass.10f2c02eb034b5244e78471e840f32ae.svg",
+    "static/media/account__exit.svg": "/static/media/account__exit.f5d004915fb0073b532a2ae743dfe4eb.svg",
+    "main.18994de1.css.map": "/static/css/main.18994de1.css.map",
+    "main.82856631.js.map": "/static/js/main.82856631.js.map",
+    "787.29183c90.chunk.js.map": "/static/js/787.29183c90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18994de1.css",
+    "static/js/main.82856631.js"
+  ]
+}
